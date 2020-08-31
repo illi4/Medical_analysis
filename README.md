@@ -9,3 +9,4 @@ In this project, I will build a model for predicting missed appointments. For th
 
 ## Results
 The results are saved in the [Jupyter notebook file](Analysis.ipynb) in the repository. 
+Presentation on Canva: [link](https://www.canva.com/design/DAEGcO_hXOw/NAE7lg8gYREZVWIprIgnkw/view?utm_content=DAEGcO_hXOw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
